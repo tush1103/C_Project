@@ -43,4 +43,20 @@ tail number_of_lines file_name
 - prints specified number of lines from the file starting fron the tail of the file.
 
 
+## Prerequisites
 
+```bash
+Linux/unix system
+C compiler
+```
+
+## Execution commands
+
+```bash
+gcc -o myshell myshell.c
+
+./myshell
+```
+
+## Improvements
+- Working on implementing more shell commands.
