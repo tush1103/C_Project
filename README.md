@@ -25,18 +25,22 @@ cat -- file_name
 echo text_to_echo
 ```
 - displays arguments as the standard output.
+
 ```bash
 ls directory_path
 ```
 - lists files and directories within the specified file
+
 ```bash
 pwd
 ```
 - prints name of the current working directory
+
 ```bash
 head number_of_lines file_name
 ```
 - prints specified number of lines from the file starting from the head of the file.
+
 ```bash
 tail number_of_lines file_name
 ```
