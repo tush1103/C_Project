@@ -1,7 +1,7 @@
 # Rewriting Shell Commands In C
 
 ## Description
-A simple implementstion of some of the shell commands using C.
+A simple implementation of some of the shell commands using C.
 
 ## Features
 Set of implemented built-in functionalities:
